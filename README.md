@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Arsharuddin
 
-<!--
-**skarsharuddin/skarsharuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA AI Student from India  
+☁️ Oracle Cloud Certified  
+🤖 Interested in AI & Cloud Computing  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Python (Beginner)
+- Oracle Cloud Infrastructure (OCI)
+- Git & GitHub
+
+---
+
+## 📚 Currently Learning
+- Artificial Intelligence
+- Cloud Computing
+- Python Projects
+
+---
+
+## 🎯 Goals
+- Build real-world AI projects  
+- Get a Cloud/AI Internship  
+- Become a Cloud + AI Engineer  
+
+---
+
+## 🔗 Connect with me
+- LinkedIn:https://www.linkedin.com/in/sk-arsharuddin-81070a31b/
